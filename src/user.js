@@ -3,7 +3,7 @@ import { ECODE } from './coupons/const.js'
 
 function tokenFormat(token, index = 0) {
   const defToken = {
-    token: '',
+    token: 'AgG5KK3c7CFyNjN1_CwDyXYsEsBp8FI7ygi9EV7kqXdW3u0Zs_VE5PBgAaHeH4XPJnLgSXIngkJZDBIAAABbIgAAkxQDDoP4X13S4DcSNSR8fZQg1E8iYeXuUuufHP0be5Ng6__xYMlFsCYRfqKeK9Z47i7cKjIVQQT05Cjm5xiTxw',
     alias: '',
     index: index + 1,
     tgUid: '',
